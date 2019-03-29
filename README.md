@@ -5,8 +5,8 @@
 </p>
 
 - **Here you will find the files used during the Research Paper Writing Workshop conducted by 
- **Mostafa Didar (Treasurer, NSU ACM SC)** 
-**Mahbuba Tasmin (Vice Chair, NSU ACM SC**
- **from NSU ACM Student Chapter.**
+- **Mostafa Didar (Treasurer, NSU ACM SC)** 
+- **Mahbuba Tasmin (Vice Chair, NSU ACM SC**
+- **from NSU ACM Student Chapter.**
 
 ## Feel free to contribute!
