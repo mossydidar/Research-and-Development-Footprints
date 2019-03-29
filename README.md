@@ -6,7 +6,6 @@
 
 - Here you will find all the resources used during the Research Paper Writing Workshop conducted by 
 - **Mostafa Didar (Treasurer, NSU ACM SC)** 
-- **Mahbuba Tasmin (Vice Chair, NSU ACM SC**
- from NSU ACM Student Chapter.
+- **Mahbuba Tasmin (Vice Chair, NSU ACM SC)**
 
 ## Feel free to contribute!
