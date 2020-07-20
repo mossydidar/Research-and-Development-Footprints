@@ -4,8 +4,7 @@
   <img width="600" height="400" src="https://github.com/mossydidar/Research-and-Development-Footprints/blob/master/img/research-paper-writing.jpg">
 </p>
 
-- Here you will find all the resources used during the Research Paper Writing Workshop conducted by 
-- **Mostafa Didar (Treasurer, NSU ACM SC)** 
-- **Mahbuba Tasmin (Vice Chair, NSU ACM SC)**
+- In this repository you will find resources that can help you get started with Research if you're planning to pursue a career in Research and the Academia.
+
 
 ## Feel free to contribute!
